@@ -19,3 +19,6 @@ public:
 	void cetakdokter();
 };
 
+class dokter {
+
+};
