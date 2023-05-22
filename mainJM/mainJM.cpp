@@ -7,6 +7,6 @@ using namespace std;
 
 int main() {
 	manusia* varManusia = new manusia("jono");
-	delet varManusia;
+	delete varManusia;
 	return 0;
 }
